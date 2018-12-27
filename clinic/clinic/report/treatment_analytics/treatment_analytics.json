@@ -1,0 +1,24 @@
+{
+ "add_total_row": 1, 
+ "apply_user_permissions": 1, 
+ "creation": "2018-12-20 09:25:41.856739", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 0, 
+ "is_standard": "Yes", 
+ "modified": "2018-12-20 09:59:56.670268", 
+ "modified_by": "Administrator", 
+ "module": "Clinic", 
+ "name": "Treatment Analytics", 
+ "owner": "Administrator", 
+ "query": "select \nIT.name as 'Treatment:Data:200',\nCT.clinic_name AS 'Clinic:Data:150',\nCT.medical_assistant_name as 'MedicalAssistant:Data:200',\ncount(*) AS 'Count:Int:100'\nFROM `tabClient Treatment` AS CT \nINNER JOIN `tabItem` AS IT ON\nCT.treatment = IT.name\nwhere CT.date_time >= %(from_date)s \nand CT.date_time <= %(to_date)s  \ngroup by\nIT.name,\nCT.clinic_name,\nCT.medical_assistant_name\norder by IT.name,\nCT.clinic_name,\nCT.medical_assistant_name\n", 
+ "ref_doctype": "Client Treatment", 
+ "report_name": "Treatment Analytics", 
+ "report_type": "Query Report", 
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}

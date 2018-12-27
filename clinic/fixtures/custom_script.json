@@ -1,0 +1,11 @@
+[
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Customer", 
+  "modified": "2018-12-06 17:13:03.433914", 
+  "name": "Customer-Client", 
+  "script": "frappe.ui.form.on(\"Customer\", {\nrefresh: function(frm) {\nfrm.toggle_display(['contact_html','primary_contact_detail']);\nfrm.toggle_display(['address_html'], !frm.doc.__islocal);\n\n\n}\n\n})", 
+  "script_type": "Client"
+ }
+]
