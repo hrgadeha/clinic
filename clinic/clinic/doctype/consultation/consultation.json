@@ -1305,7 +1305,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2018-12-19 23:36:16.713282", 
+ "modified": "2019-01-12 00:15:37.367000", 
  "modified_by": "Administrator", 
  "module": "Clinic", 
  "name": "Consultation", 
@@ -1335,7 +1335,7 @@
   {
    "amend": 0, 
    "apply_user_permissions": 0, 
-   "cancel": 0, 
+   "cancel": 1, 
    "create": 1, 
    "delete": 1, 
    "email": 1, 
@@ -1349,7 +1349,7 @@
    "role": "System Manager", 
    "set_user_permissions": 0, 
    "share": 1, 
-   "submit": 0, 
+   "submit": 1, 
    "write": 1
   }
  ], 
