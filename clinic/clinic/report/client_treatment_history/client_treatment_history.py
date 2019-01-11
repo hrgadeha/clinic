@@ -16,21 +16,21 @@ def execute(filters=None):
 
 def get_columns():
 	return [
-		_("Client No") + ":Link/Customer:100", _("Client") + ":Data:200", _("Appointment")+ ":Link/Patient Appointment:120",
+		_("Client") + ":Link/Customer:100", _("Appointment")+ ":Link/Patient Appointment:120",
 		_("Date") + ":Date:90", _("Doctor") + ":Link/Doctor:100",_("Doctor Name") + ":Link/Doctor:100",
-		_("Clinic") + ":Link/Department:120", _("Operation/Treatment") + "::140", _("Medical Assistant") + ":Link/Doctor:120",
-		_("Medical Assistant Name") + ":Link/Doctor:150", _("Status") + "::70", _("Cell No") + "::80", _("Email") + "::90"
+		_("Clinic") + ":Link/Department:120", _("Treatment") + "::170", _("Medical Assistant") + ":Link/Doctor:120",
+		_("Medical Assistant Name") + ":Link/Doctor:150", _("Status") + "::70", _("Cell No") + "::110", _("Email") + "::110"
 	]
 
 def get_data(filters):
 	conditions = get_conditions(filters)
 	data=[]
-	appointment_data=frappe.db.sql("""select client,patient_name,name,appointment_date,physician,doctor_name,clinic_name from `tabPatient Appointment` where docstatus=0 %s""" % conditions)
+	appointment_data=frappe.db.sql("""select client,name,appointment_date,physician,doctor_name,clinic_name from `tabPatient Appointment` where docstatus=0 %s""" % conditions)
 	if appointment_data:
 		for appointment in appointment_data:
 			row=[]
-			row=[appointment[0],appointment[1],appointment[2],appointment[3],appointment[4],appointment[5],appointment[6]]
-			treatment_data=frappe.db.sql("""select name,medical_assistant,medical_assistant_name,status from `tabClient Treatment` where appointment=%s""",appointment[2])
+			row=[appointment[0],appointment[1],appointment[2],appointment[3],appointment[4],appointment[5]]
+			treatment_data=frappe.db.sql("""select name,medical_assistant,medical_assistant_name,status from `tabClient Treatment` where appointment=%s""",appointment[1])
 			for treatment in treatment_data:
 				row.append(treatment[0])
 				row.append(treatment[1])

@@ -163,6 +163,7 @@ def confirm_sms(doc):
 		send_message(doc, message)
 
 
+#custom:generate item
 @frappe.whitelist()
 def getItemForInvoice(appointment):
 	consultant_data=frappe.get_all("Consultation",filters=[("Consultation","appointment","=",appointment),("Consultation","is_bill","!=",1)],fields=["name"])
@@ -198,7 +199,7 @@ def getItemForInvoice(appointment):
 
 
 
-
+#custom:use to make invoice
 @frappe.whitelist()
 def create_invoice(company, physician, patient, appointment_id, appointment_date):
 	if not appointment_id:

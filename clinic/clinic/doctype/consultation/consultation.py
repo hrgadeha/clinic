@@ -18,6 +18,7 @@ class Consultation(Document):
 		frappe.db.set_value("Patient Appointment", self.appointment, "status", "Closed")
 
 	def on_submit(self):
+		#custom:create client treatment document from consultation document
 		if len(self.treatment)>0:
 			for item in self.treatment:
 				doctor_name=frappe.db.get_value("Doctor",item.assigned_to,"first_name")

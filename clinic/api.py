@@ -23,8 +23,8 @@ from operator import itemgetter
 import traceback
 
 
-#custom:This function use to decide what is appointment status
 
+#make error log when any issue coming in all functions
 @frappe.whitelist()
 def app_error_log(title,error):
 	d = frappe.get_doc({
@@ -61,6 +61,8 @@ def generateResponse(_type,status=None,message=None,data=None,error=None):
 	return response
 
 
+
+#this function used to check availability of doctor based on this appointment status 'Waiting' or 'Schedule'
 @frappe.whitelist()
 def checkAvailability(self,method):
 	try:
@@ -79,6 +81,8 @@ def checkAvailability(self,method):
 	except Exception as e:
 		return generateResponse("F",error=e)
 
+
+#change status of consultation and appointment
 @frappe.whitelist()
 def changeStatus(self,method):
 	try:
@@ -101,6 +105,7 @@ def changeStatus(self,method):
 		return generateResponse("F",error=e)
 
 
+#when cancel consultation this function call
 @frappe.whitelist()
 def updateDocument(self,method):
 	try:
@@ -145,7 +150,7 @@ def makeInvoice(appointment):
 
 
 #Not Useful
-
+'''
 @frappe.whitelist()
 def getItemForInvoice1(appointment):
 	try:
@@ -197,3 +202,4 @@ def getItemForInvoice(appointment):
 
 	except Exception as e:
 		return generateResponse("F",error=e)
+'''

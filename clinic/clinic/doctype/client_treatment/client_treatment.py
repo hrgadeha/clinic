@@ -12,6 +12,7 @@ class ClientTreatment(Document):
 	def on_submit(self):
 		#frappe.msgprint("Submit")
 		#self.update_status('Completed')
+		#custom:change status of treatment and appointment when client treatment submit
 		frappe.db.set_value("Client Treatment",self.name,"status","Completed")
 		if self.is_bill==0:
 			consultation_name=frappe.get_all("Consultation",filters={"docstatus":1,"appointment":self.appointment},fields=["name"])
