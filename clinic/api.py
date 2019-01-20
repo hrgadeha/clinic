@@ -24,7 +24,7 @@ import traceback
 
 
 
-#make error log when any issue coming in all functions
+#custom:make error log when any issue coming in all functions
 @frappe.whitelist()
 def app_error_log(title,error):
 	d = frappe.get_doc({
@@ -62,7 +62,7 @@ def generateResponse(_type,status=None,message=None,data=None,error=None):
 
 
 
-#this function used to check availability of doctor based on this appointment status 'Waiting' or 'Schedule'
+#custom this function used to check availability of doctor based on this appointment status 'Waiting' or 'Schedule'
 @frappe.whitelist()
 def checkAvailability(self,method):
 	try:
@@ -82,7 +82,7 @@ def checkAvailability(self,method):
 		return generateResponse("F",error=e)
 
 
-#change status of consultation and appointment
+#custom change status of consultation and appointment
 @frappe.whitelist()
 def changeStatus(self,method):
 	try:
@@ -105,7 +105,7 @@ def changeStatus(self,method):
 		return generateResponse("F",error=e)
 
 
-#when cancel consultation this function call
+#custom when cancel consultation this function call
 @frappe.whitelist()
 def updateDocument(self,method):
 	try:
@@ -125,81 +125,16 @@ def updateDocument(self,method):
 		return generateResponse("F",error=e)
 
 
-
-
-
-'''
+#custom delete already available translation
 @frappe.whitelist()
-def makeInvoice(appointment):
+def deleteTranslation(self=None,method=None):
 	try:
-		appointment_data=frappe.get_doc("Patient Appointment",appointment)
-		items=[]
-		item_line={}
-		item_line["item_code"]="BP"
-		item_line["qty"]=1
-		items.append(item_line)
-		sales_invoice=frappe.get_doc(dict(
-			customer=appointment_data.client,
-			due_data=today(),
-			appointment=appointment,
-			items=items
-		)).insert()
-		return sales_invoice.name
-	except Exception as e:
-		return generateResponse("F",error=e)'''
-
-
-#Not Useful
-'''
-@frappe.whitelist()
-def getItemForInvoice1(appointment):
-	try:
-		consultant_data=frappe.get_all("Consultation",filters=[("Consultation","appointment","=",appointment),("Consultation","is_bill","!=",1)],fields=["name"])
-		items=[]
-		if len(consultant_data)>0:
-			consult=frappe.get_doc("Consultation",consultant_data[0].name)
-			line_item={}
-			line_item["item_code"]=frappe.db.get_value("Healthcare Settings","Healthcare Settings","consultant_item")
-			line_item["doctor"]=consult.doctor_name
-			line_item["date"]=consult.consultation_date
-			line_item["name"]=consult.name
-			items.append(line_item)
-
-		treatment_data=frappe.get_all("Client Treatment",filters=[("Client Treatment","appointment","=",appointment),("Client Treatment","status","in",["Pending","Completed"]),("Client Treatment","is_bill","!=",1)],fields=["name"])
-		if len(treatment_data)>0:
-			for row in treatment_data:
-				treatment=frappe.get_doc("Client Treatment",row.name)
-				line_item={}
-				line_item["item_code"]=treatment.treatment
-				line_item["doctor"]=frappe.db.get_value("Doctor",treatment.medical_assitant,"first_name")
-				line_item["date"]=treatment.date_time
-				line_item["name"]=treatment.name
-				items.append(line_item)
-		return items
+		frappe.db.sql("""delete from `tabTranslation` where language in ('en','ar')""")
 
 	except Exception as e:
 		return generateResponse("F",error=e)
 
 
-@frappe.whitelist()
-def getItemForInvoice(appointment):
-	try:
-		data='<h4>Consultation and Treatments</h4><table class="table table-bordered" id="clinic"><tr><th>#</th><th>Item</th><th>Doctor</th><th>Date</th><th>Reference</th></tr>'
-		consultant_data=frappe.get_all("Consultation",filters=[("Consultation","appointment","=",appointment),("Consultation","is_bill","!=",1)],fields=["name"])
-		items=[]
-		if len(consultant_data)>0:
-			consult=frappe.get_doc("Consultation",consultant_data[0].name)
-			data=data+"<tr><td><input type='checkbox'></td><td>"+str(frappe.db.get_value("Healthcare Settings","Healthcare Settings","consultant_item"))+"</td><td>"+str(consult.doctor_name)+"</td><td>"+str(consult.consultation_date)+"</td><td>"+str(consult.name)+"</td></tr>"
 
-		treatment_data=frappe.get_all("Client Treatment",filters=[("Client Treatment","appointment","=",appointment),("Client Treatment","status","in",["Pending","Completed"]),("Client Treatment","is_bill","!=",1)],fields=["name"])
-		if len(treatment_data)>0:
-			for row in treatment_data:
-				treatment=frappe.get_doc("Client Treatment",row.name)
-				data=data+"<tr><td><input type='checkbox'></td><td>"+str(treatment.treatment)+"</td><td>"+str(frappe.db.get_value("Doctor",treatment.medical_assitant,"first_name"))+"</td><td>"+str(treatment.date_time)+"</td><td>"+str(treatment.name)+"</td></tr>"
 
-		data=data+"</table>"
-		return data	
 
-	except Exception as e:
-		return generateResponse("F",error=e)
-'''

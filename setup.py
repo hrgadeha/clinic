@@ -15,9 +15,9 @@ with open('clinic/__init__.py', 'rb') as f:
 setup(
 	name='clinic',
 	version=version,
-	description='Clinic Management App',
-	author='Clinic',
-	author_email='clinic@gmail.com',
+	description='Health Clinic Administration App',
+	author='Grey Cube Technologies',
+	author_email='sales@greycube.in',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,

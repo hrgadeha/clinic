@@ -18,27 +18,6 @@ class PatientAppointment(Document):
 		today = datetime.date.today()
 		appointment_date = getdate(self.appointment_date)
 
-		# If appointment created for today set as open
-		#if today == appointment_date:
-		#	frappe.db.set_value("Patient Appointment", self.name, "status", "Sc")
-		#	self.reload()
-
-	#def after_insert(self):
-	#	# Check fee validity exists
-	#	appointment = self
-	#	validity_exist = validity_exists(appointment.physician, appointment.patient)
-	#	if validity_exist:
-	#		fee_validity = frappe.get_doc("Fee Validity", validity_exist[0][0])
-
-			# Check if the validity is valid
-	#		appointment_date = getdate(appointment.appointment_date)
-	#		if (fee_validity.valid_till >= appointment_date) and (fee_validity.visited < fee_validity.max_visit):
-	#			visited = fee_validity.visited + 1
-	#			frappe.db.set_value("Fee Validity", fee_validity.name, "visited", visited)
-	#			if fee_validity.ref_invoice:
-	#				frappe.db.set_value("Patient Appointment", appointment.name, "sales_invoice", fee_validity.ref_invoice)
-	#			frappe.msgprint(_("{0} has fee validity till {1}").format(appointment.patient, fee_validity.valid_till))
-	#	confirm_sms(self)
 
 	def save(self, *args, **kwargs):
 		# duration is the only changeable field in the document
@@ -92,7 +71,7 @@ def get_availability_data(date, physician):
 	else:
 		frappe.throw(_("Dr {0} does not have a Physician Schedule. Add it in Physician master".format(physician)))
 
-	#custome:inside below block i did change divide block (from_time to to_time and each divide time per appointment)
+	#custom:inside below block i did change divide block (from_time to to_time and each divide time per appointment)
 
 	if physician_schedule:
 		for t in physician_schedule.time_slots:
@@ -261,62 +240,6 @@ def getItems(item_obj):
 			
 	
 
-
-'''@frappe.whitelist()
-def invoiceItem(name):
-	appointment_details=frappe.get_doc("Patient Appointment",name)
-	items=getItemArray(appointment_details.company,appointment_details.physician,appointment_details.client,name,appointment_details.appointment_date)
-	if len(items)>0:
-		return items
-	else:
-		return False		
-
-
-
-def getItemArray(company, physician, patient, appointment_id, appointment_date):
-	consultation_details=frappe.get_all("Consultation",filters={"docstatus":1,"patient":patient,"appointment":appointment_id,"physician":physician},fields=["name"])
-	items=[]
-	if consultation_details:
-		for treatment in consultation_details:
-			consultation_data=frappe.get_doc("Consultation",treatment.name)
-			if len(consultation_data.treatment)>0:
-				item_json={}
-				item_json["item_name"]="Consulting Charges"
-				item_json["description"]="Consulting Charges:  " + physician
-				item_json["qty"] = 1
-				item_json["uom"] = "Nos"
-				item_json["conversion_factor"] = 1
-				item_json["income_account"] = get_income_account(physician, company)
-				op_consulting_charge = frappe.db.get_value("Doctor", physician, "op_consulting_charge")
-				if op_consulting_charge:
-					item_json["rate"] = op_consulting_charge
-					item_json["amount"] = op_consulting_charge
-				items.append(item_json)
-				for treat_item in consultation_data.treatment:
-					item_json={}
-					treatment_data=frappe.get_all("Client Treatment",filters={"consulatation":treat_item.parent,"consulatation_treatment":treat_item.name,"status":"Completed"},fields=["treatment","qty"])
-					if len(treatment_data)>0:
-						item_json["item_code"]=treatment_data[0].treatment
-						item_json["qty"]=treatment_data[0].qty
-						items.append(item_json)	
-			else:
-				item_json={}
-				item_json["item_name"]="Consulting Charges"
-				item_json["description"]="Consulting Charges:  " + physician
-				item_json["qty"] = 1
-				item_json["uom"] = "Nos"
-				item_json["conversion_factor"] = 1
-				item_json["income_account"] = get_income_account(physician, company)
-				op_consulting_charge = frappe.db.get_value("Doctor", physician, "op_consulting_charge")
-				if op_consulting_charge:
-					item_json["rate"] = op_consulting_charge
-					item_json["amount"] = op_consulting_charge
-				items.append(item_json)
-
-	return items
-
-
-'''
 def get_fee_validity(physician, patient, date):
 	validity_exist = validity_exists(physician, patient)
 	if validity_exist:

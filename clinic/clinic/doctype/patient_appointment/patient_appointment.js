@@ -192,80 +192,6 @@ frappe.ui.form.on('Patient Appointment', {
 		}
 	},
 });
-/*
-
-var get_data=function(frm){
-	frappe.call({
-		method:'clinic.api.getItemForInvoice',
-		args:{'appointment':frm.doc.name},
-		freeze: true,
-		freeze_message: "Please Wait...",
-		callback:function(r){
-						
-			if(r.message){
-				console.log(r.message)
-				get_popup(frm,r.message)
-				
-					
-			}
-		}
-
-	})
-
-
-
-
-};
-
-var get_popup=function(frm,data){
-		var fields = [
-			{fieldtype:'HTML', fieldname: 'clinic_item'}
-			];
-
-					
-					var d = new frappe.ui.Dialog({
-						title: __('Select Item for Invoice'),
-						fields: fields,
-						primary_action: function() {
-						d.hide();
-						
-						var tableCont= document.getElementById('clinic');
-
-						var arrVal=get_selected_item(frm,tableCont)
-
-						console.log(arrVal);
-						setTimeout(function(){
-						
-						if(arrVal.length==0){
-							frappe.throw("Select Any One Item")
-					
-						}
-						var doc = frm.doc;
-
-						},700)
-						d.refresh();
-						d.clear();
-						console.log(arrVal[0]);
-
-						
-						},
-						primary_action_label: __('Select')
-					});
-
-
-				
-				d.fields_dict.clinic_item.$wrapper.html(data);
-				d.refresh();
-				d.show();
-				
-
-d.$wrapper.find('.modal-dialog').css("width", "600px");	
-
-
-
-
-};
-*/
 
 var get_selected_item=function(frm,tableControl){
 		console.log(tableControl)
@@ -340,20 +266,7 @@ var btn_invoice_consultation = function(frm){
 	});
 };
 
-/*frappe.ui.form.on("Patient Appointment", "physician", function(frm) {
-	if(frm.doc.physician){
-		frappe.call({
-			"method": "frappe.client.get",
-			args: {
-				doctype: "Doctor",
-				name: frm.doc.physician
-			},
-			callback: function (data) {
-				frappe.model.set_value(frm.doctype,frm.docname, "department",data.message.department);
-			}
-		});
-	}
-});*/
+
 
 frappe.ui.form.on("Patient Appointment", "patient", function(frm) {
 	if(frm.doc.patient){
@@ -374,7 +287,7 @@ frappe.ui.form.on("Patient Appointment", "patient", function(frm) {
 	}
 });
 
-//custome:this is use to reload doc after update status
+//custom:this is use to reload doc after update status
 frappe.ui.form.on("Patient Appointment", "status", function(frm) {
 	frm.refresh_field('status');
 	setTimeout(function(){
