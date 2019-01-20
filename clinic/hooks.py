@@ -58,7 +58,7 @@ fixtures=["Custom Script","Translation"]
 # ------------
 
 # before_install = "clinic.install.before_install"
-# after_install = "clinic.install.after_install"
+before_install = "clinic.api.deleteTranslation"
 
 # Desk Notifications
 # ------------------

@@ -1,0 +1,2387 @@
+[
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2018-12-12 23:08:44.842001", 
+  "name": "5848f865af", 
+  "source_name": "Clinic", 
+  "target_name": "\u0627\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u064a\u0627\u062f\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2018-12-12 23:10:38.827296", 
+  "name": "c4725cd08f", 
+  "source_name": "Doctor Designation", 
+  "target_name": "\u062a\u062e\u0635\u0635 \u0627\u0644\u0627\u0637\u0628\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2018-12-12 23:22:26.445352", 
+  "name": "786fb41ed2", 
+  "source_name": "Book", 
+  "target_name": "\u062d\u062c\u0632"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2018-12-12 23:28:58.251158", 
+  "name": "a34fb479be", 
+  "source_name": "Doctor Name", 
+  "target_name": "\u0627\u0633\u0645 \u0627\u0644\u0637\u0628\u064a\u0628"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2018-12-12 23:29:49.755165", 
+  "name": "fa6349d0d6", 
+  "source_name": "Waiting", 
+  "target_name": "\u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2018-12-12 23:31:46.792797", 
+  "name": "67962baf9a", 
+  "source_name": "Scheduled", 
+  "target_name": "\u0645\u0648\u0639\u062f \u0645\u0624\u0643\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en-US", 
+  "modified": "2018-12-28 01:01:55.679124", 
+  "name": "1de762978a", 
+  "source_name": "Patient Appointment", 
+  "target_name": "Client Appointment"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en-US", 
+  "modified": "2018-12-28 01:04:25.838046", 
+  "name": "215835cd9b", 
+  "source_name": "Healthcare Settings", 
+  "target_name": "Clinic Settings"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en-US", 
+  "modified": "2018-12-28 01:05:15.391940", 
+  "name": "8e01ec2bdc", 
+  "source_name": "Physician Schedule", 
+  "target_name": "Doctor Schedule"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.845995", 
+  "name": "aa15ee8fdc", 
+  "source_name": "Phone Number", 
+  "target_name": "\u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.857922", 
+  "name": "ff99813a86", 
+  "source_name": "Item Variant Settings", 
+  "target_name": "\u0627\u0639\u062f\u0627\u062f\u0627\u062a \u0645\u062a\u063a\u064a\u0631\u0627\u062a \u0627\u0644\u0635\u0646\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.860771", 
+  "name": "cec56491ce", 
+  "source_name": "Home Page LInk", 
+  "target_name": "\u0631\u0627\u0628\u0637 \u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.864158", 
+  "name": "f742829b80", 
+  "source_name": "System Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0646\u0638\u0627\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.867000", 
+  "name": "6024989b3f", 
+  "source_name": "Guest", 
+  "target_name": "\u0636\u064a\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.869876", 
+  "name": "f9cc31e0b9", 
+  "source_name": "Report Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.872616", 
+  "name": "d8c1f6fd0a", 
+  "source_name": "Blogger", 
+  "target_name": "\u0645\u062f\u0648\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.875366", 
+  "name": "1cd1e05546", 
+  "source_name": "Newsletter Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0627\u062e\u0628\u0627\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.877964", 
+  "name": "1fd472bab9", 
+  "source_name": "Sales User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.880594", 
+  "name": "a1ea8b7256", 
+  "source_name": "Accounts User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.883571", 
+  "name": "47eec16a36", 
+  "source_name": "Purchase User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.886742", 
+  "name": "8201123e7f", 
+  "source_name": "Purchase Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.889703", 
+  "name": "b76c2bcd7f", 
+  "source_name": "Maintenance User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0635\u064a\u0627\u0646\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.892338", 
+  "name": "e257f1e624", 
+  "source_name": "Maintenance Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0635\u064a\u0627\u0646\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.895116", 
+  "name": "dd82aeac48", 
+  "source_name": "Sales Master Manager", 
+  "target_name": "\u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0639\u0627\u0645 \u0644\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.897831", 
+  "name": "090b2e05e8", 
+  "source_name": "Sales Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.900455", 
+  "name": "3f6e450c4f", 
+  "source_name": "Accounts Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.903076", 
+  "name": "0f3188ee0b", 
+  "source_name": "Purchase Master Manager", 
+  "target_name": "\u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0639\u0627\u0645 \u0644\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.905798", 
+  "name": "262643b9f2", 
+  "source_name": "Employee", 
+  "target_name": "\u0645\u0648\u0638\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.908451", 
+  "name": "4642a1d64f", 
+  "source_name": "Stock User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.911200", 
+  "name": "e069beb828", 
+  "source_name": "Auditor", 
+  "target_name": "\u0645\u0631\u0627\u062c\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.913978", 
+  "name": "227e4d57ec", 
+  "source_name": "Manufacturing Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u062a\u0635\u0646\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.916770", 
+  "name": "9a8171d284", 
+  "source_name": "Stock Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.919391", 
+  "name": "6ccfc625d1", 
+  "source_name": "HR User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0645\u0648\u0627\u0631\u062f \u0628\u0634\u0631\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.922118", 
+  "name": "a687a16401", 
+  "source_name": "Projects User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0645\u0634\u0627\u0631\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.924726", 
+  "name": "ba3b36145f", 
+  "source_name": "Manufacturing User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u062a\u0635\u0646\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.927525", 
+  "name": "8cc2249afc", 
+  "source_name": "Projects Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.930158", 
+  "name": "289ab17e63", 
+  "source_name": "Item Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0627\u0635\u0646\u0627\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.932973", 
+  "name": "53b9fd972f", 
+  "source_name": "Fleet Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0627\u0633\u0637\u0648\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.936022", 
+  "name": "97a8857747", 
+  "source_name": "HR Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0628\u0634\u0631\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.947034", 
+  "name": "2f863e1e40", 
+  "source_name": "Expense Approver", 
+  "target_name": "\u0645\u0639\u062a\u0645\u062f \u0627\u0644\u0645\u0635\u0627\u0631\u064a\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.951306", 
+  "name": "e7674aad05", 
+  "source_name": "Leave Approver", 
+  "target_name": "\u0645\u0639\u062a\u0645\u062f \u0627\u0644\u0627\u062c\u0627\u0632\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.959729", 
+  "name": "2178a6d8cd", 
+  "source_name": "Healthcare Administrator", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0631\u0639\u0627\u064a\u0629 \u0627\u0644\u0637\u0628\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.962864", 
+  "name": "efc43601b6", 
+  "source_name": "Laboratory User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0645\u0639\u0645\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.965544", 
+  "name": "a7d4beac34", 
+  "source_name": "LabTest Approver", 
+  "target_name": "\u0645\u0639\u062a\u0645\u062f \u0627\u062e\u062a\u0628\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u0639\u0645\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.968446", 
+  "name": "a09e311e04", 
+  "source_name": "Restaurant Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0645\u0637\u0639\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.971198", 
+  "name": "9d88fd1950", 
+  "source_name": "Agriculture Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0627\u0644\u0632\u0631\u0627\u0639\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.974399", 
+  "name": "d5ffbd76f5", 
+  "source_name": "Agriculture User", 
+  "target_name": "\u0645\u0633\u062a\u062e\u062f\u0645 \u0632\u0631\u0627\u0639\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.977515", 
+  "name": "9c209f7d0f", 
+  "source_name": "Non Profit Manager", 
+  "target_name": "\u0645\u062f\u064a\u0631 \u0645\u0646\u0638\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.980340", 
+  "name": "64c9f70d80", 
+  "source_name": "Non Profit Member", 
+  "target_name": "\u0639\u0636\u0648 \u0645\u0646\u0638\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.983824", 
+  "name": "a938ad357a", 
+  "source_name": "Analytics", 
+  "target_name": "\u0645\u062d\u0644\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.987467", 
+  "name": "85688e0282", 
+  "source_name": "Note", 
+  "target_name": "\u0627\u0639\u0644\u0627\u0646 \u062f\u0627\u062e\u0644\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.990962", 
+  "name": "abb7c649c8", 
+  "source_name": "Account Head", 
+  "target_name": "\u0627\u0644\u062d\u0633\u0627\u0628"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.994217", 
+  "name": "0a73bf4cd5", 
+  "source_name": "Company TRN", 
+  "target_name": "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0636\u0631\u064a\u0628\u064a \u0644\u0644\u0634\u0631\u0643\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:10.997526", 
+  "name": "cec09a8075", 
+  "source_name": "Select Supplier Address", 
+  "target_name": "\u062d\u062f\u062f \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0645\u0648\u0631\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.000383", 
+  "name": "146efb9de1", 
+  "source_name": "Supplier Invoice Date", 
+  "target_name": "\u062a\u0627\u0631\u064a\u062e \u0641\u0627\u062a\u0648\u0631\u0629 \u0627\u0644\u0645\u0648\u0631\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.003214", 
+  "name": "4be771d5af", 
+  "source_name": "Supplier Invoice Details", 
+  "target_name": "\u062a\u0641\u0627\u0635\u064a\u0644 \u0641\u0627\u062a\u0648\u0631\u0629 \u0627\u0644\u0645\u0648\u0631\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.006567", 
+  "name": "d1ee0a5c6d", 
+  "source_name": "Supplier Name in Arabic", 
+  "target_name": "\u0627\u0633\u0645 \u0627\u0644\u0645\u0648\u0631\u062f \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.009558", 
+  "name": "63db85f2bb", 
+  "source_name": "Tax Id", 
+  "target_name": "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0636\u0631\u064a\u0628\u064a \u0644\u0644\u0637\u0631\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.012789", 
+  "name": "f29ec0ae98", 
+  "source_name": "Time Sheet List", 
+  "target_name": "\u0642\u0627\u0626\u0645\u0629 \u0633\u062c\u0644 \u0627\u0644\u062d\u0636\u0648\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.015998", 
+  "name": "cb7dd49542", 
+  "source_name": "VAT Details", 
+  "target_name": "\u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u0644\u0636\u0631\u064a\u0628\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.018824", 
+  "name": "52b3a7bd4f", 
+  "source_name": "Payment Amount", 
+  "target_name": "\u0645\u0628\u0644\u063a \u0627\u0644\u062f\u0641\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.022128", 
+  "name": "02eb83c0e2", 
+  "source_name": "Get Advances Received", 
+  "target_name": "\u0627\u0638\u0647\u0627\u0631 \u0627\u0644\u062f\u0641\u0639\u0627\u062a \u0627\u0644\u0645\u0642\u062f\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.025266", 
+  "name": "48bcf7a65f", 
+  "source_name": "Half-Yearly", 
+  "target_name": "\u0646\u0635\u0641 \u0633\u0646\u0648\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.028665", 
+  "name": "65bd47ad3b", 
+  "source_name": "Is Sales Item", 
+  "target_name": "\u0647\u0644 \u0647\u0648 \u0635\u0646\u0641 \u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.031882", 
+  "name": "1793e608bd", 
+  "source_name": "Default Selling Cost Center", 
+  "target_name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u062a\u0643\u0644\u0641\u0629 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.034906", 
+  "name": "fdff8a2600", 
+  "source_name": "Is Purchase Item", 
+  "target_name": "\u0647\u0644 \u0647\u0648 \u0635\u0646\u0641 \u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.037850", 
+  "name": "eb078703e1", 
+  "source_name": "Default Expense Account", 
+  "target_name": "\u062d\u0633\u0627\u0628 \u062a\u0643\u0644\u0641\u0629 \u0627\u0644\u0628\u0636\u0627\u0639\u0629 \u0627\u0644\u0645\u0628\u0627\u0639\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.040929", 
+  "name": "b75640c1b2", 
+  "source_name": "Default Buying Cost Center", 
+  "target_name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u062a\u0643\u0644\u0641\u0629 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.044405", 
+  "name": "1f57f70d83", 
+  "source_name": "Safety Stock", 
+  "target_name": "\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u0644\u0648\u0636\u0639 \u0627\u0644\u0627\u0645\u0627\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.047458", 
+  "name": "0ab6126bf3", 
+  "source_name": "Default Purchase Unit of Measure", 
+  "target_name": "\u0648\u062d\u062f\u0629 \u0627\u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a\u0629 \u0644\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.050580", 
+  "name": "a44913a334", 
+  "source_name": "Valuation Method", 
+  "target_name": "\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062a\u0642\u064a\u064a\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.054007", 
+  "name": "e3964c9a9e", 
+  "source_name": "Default Warehouse", 
+  "target_name": "\u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.056767", 
+  "name": "127f2f2486", 
+  "source_name": "To Receive and Bill", 
+  "target_name": "\u0644\u0644\u0627\u0633\u062a\u0644\u0627\u0645 \u0648\u0627\u0644\u0641\u0648\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.059490", 
+  "name": "158a224867", 
+  "source_name": "Qualified", 
+  "target_name": "\u0645\u0624\u0647\u0644 \u0644\u0644\u0634\u0631\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.062130", 
+  "name": "fbae702073", 
+  "source_name": "Payroll Entry", 
+  "target_name": "\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0631\u0648\u0627\u062a\u0628"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.064911", 
+  "name": "2f2be6e459", 
+  "source_name": "Payment Entry", 
+  "target_name": "\u0627\u0644\u0645\u062f\u0641\u0648\u0639\u0627\u062a \u0648\u0627\u0644\u0645\u0642\u0628\u0648\u0636\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.067667", 
+  "name": "f8904ac336", 
+  "source_name": "Due Date", 
+  "target_name": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0627\u0633\u062a\u062d\u0642\u0627\u0642"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.070274", 
+  "name": "4d4ac86df9", 
+  "source_name": "Customer PO Details", 
+  "target_name": "\u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u0645\u0631 \u0634\u0631\u0627\u0621 \u0627\u0644\u0639\u0645\u064a\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.073095", 
+  "name": "1900f95447", 
+  "source_name": "More", 
+  "target_name": "\u0627\u0644\u0645\u0632\u064a\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.075938", 
+  "name": "8aaf2959c3", 
+  "source_name": "(Jan (Qty", 
+  "target_name": "\u0643\u0645\u064a\u0629 \u064a\u0646\u0627\u064a\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.078671", 
+  "name": "7b5a48590c", 
+  "source_name": "Accounts", 
+  "target_name": "\u0623\u062f\u0627\u0631\u0629 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.081327", 
+  "name": "040e9ec7a5", 
+  "source_name": "Accounts Receivable", 
+  "target_name": "\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.083985", 
+  "name": "51bc926c5c", 
+  "source_name": "Accounts Receivable Summary", 
+  "target_name": "\u0645\u0644\u062e\u0635 \u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0642\u0628\u0636"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.086844", 
+  "name": "c625fbed07", 
+  "source_name": "Add Child", 
+  "target_name": "\u0627\u0636\u0627\u0641\u0629 \u062d\u0633\u0627\u0628"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.089524", 
+  "name": "7927b61496", 
+  "source_name": "Advance amount", 
+  "target_name": "\u0627\u0644\u0645\u0628\u0644\u063a \u0627\u0644\u0645\u0642\u062f\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.092098", 
+  "name": "14431fbdeb", 
+  "source_name": "ADVANCE PAYMENTS", 
+  "target_name": "\u0627\u0644\u062f\u0641\u0639\u0627\u062a \u0627\u0644\u0645\u0642\u062f\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.094955", 
+  "name": "786184d806", 
+  "source_name": "Allow Zero Valuation Rate", 
+  "target_name": "\u0627\u0644\u0633\u0645\u0627\u062d \u0628\u0645\u0639\u062f\u0644 \u062a\u0642\u064a\u064a\u0645 \u0635\u0641\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.097537", 
+  "name": "a28ed68607", 
+  "source_name": "Amount", 
+  "target_name": "\u0627\u0644\u0645\u0628\u0644\u063a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.100133", 
+  "name": "b09d4b9436", 
+  "source_name": "Asset Depreciation Ledger", 
+  "target_name": "\u062f\u0641\u062a\u0631 \u0627\u0633\u062a\u0627\u0630 \u0627\u0647\u0644\u0627\u0643 \u0627\u0644\u0623\u0635\u0648\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.102960", 
+  "name": "5f79211e5f", 
+  "source_name": "Assigned To Me", 
+  "target_name": "\u0623\u0633\u0646\u062f\u062a \u0644\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.106092", 
+  "name": "363e152f90", 
+  "source_name": "Available Batch Qty at Warehouse", 
+  "target_name": "\u0627\u0644\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629 \u0645\u0646 \u0627\u0644\u062f\u0641\u0639\u0629 \u0641\u064a \u0627\u0644\u0645\u062e\u0632\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.108692", 
+  "name": "ea8106da5c", 
+  "source_name": "Available Qty at Warehouse", 
+  "target_name": "\u0627\u0644\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u062a\u0627\u062d\u0629 \u0641\u064a \u0627\u0644\u0645\u062e\u0632\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.111238", 
+  "name": "7c3fe85c39", 
+  "source_name": "Available Stock for Packing Items", 
+  "target_name": "\u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0645\u062a\u0627\u062d \u0644\u0644\u062a\u0639\u0628\u0626\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.113835", 
+  "name": "2864a331de", 
+  "source_name": "Balance", 
+  "target_name": "\u0631\u0635\u064a\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.116484", 
+  "name": "0e27bbfc62", 
+  "source_name": "Balance Sheet", 
+  "target_name": "\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0627\u0644\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.119381", 
+  "name": "2994ae69e8", 
+  "source_name": "Bank Entry", 
+  "target_name": "\u0642\u064a\u062f \u0628\u0646\u0643\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.122159", 
+  "name": "caef6e12b5", 
+  "source_name": "Batch Item Expiry Status", 
+  "target_name": "\u062d\u0627\u0644\u0629 \u062a\u0627\u0631\u064a\u062e \u0635\u0644\u0627\u062d\u064a\u0629 \u0627\u0644\u0635\u0646\u0641 \u0639\u0644\u064a \u0645\u0633\u062a\u0648\u064a \u0627\u0644\u062f\u0641\u0639\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.124815", 
+  "name": "45e193bf5d", 
+  "source_name": "Batch-Wise Balance History", 
+  "target_name": "\u0631\u0635\u064a\u062f \u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u0639\u0644\u064a \u0645\u0633\u062a\u0648\u064a \u0627\u0644\u062f\u0641\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.127469", 
+  "name": "42e1b07788", 
+  "source_name": "Bill of Materials", 
+  "target_name": "\u062c\u062f\u0648\u0644 \u0627\u0644\u0645\u0648\u0627\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.130121", 
+  "name": "b7cad67522", 
+  "source_name": "BOM Browser", 
+  "target_name": "\u062a\u0635\u0641\u062d \u062c\u062f\u0627\u0648\u0644 \u0627\u0644\u0645\u0648\u0627\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.132772", 
+  "name": "b864b20f09", 
+  "source_name": "BOM Search", 
+  "target_name": "\u0627\u0644\u0628\u062d\u062b \u0641\u064a \u062c\u062f\u0627\u0648\u0644 \u0627\u0644\u0645\u0648\u0627\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.135583", 
+  "name": "c6164fdf50", 
+  "source_name": "BOM Stock Report", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0645\u062e\u0632\u0648\u0646 \u062c\u062f\u0648\u0644 \u0627\u0644\u0645\u0648\u0627\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.138310", 
+  "name": "0e8f6efa06", 
+  "source_name": "BOM Update Tool", 
+  "target_name": "\u0627\u062f\u0627\u0629 \u062a\u062d\u062f\u064a\u062b \u062c\u062f\u0627\u0648\u0644 \u0627\u0644\u0645\u0648\u0627\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.140917", 
+  "name": "8876a2da3f", 
+  "source_name": "Budget Variance Report", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0641\u0631\u0648\u0642\u0627\u062a \u0627\u0644\u0645\u0648\u0627\u0632\u0646\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.143567", 
+  "name": "01dbe78191", 
+  "source_name": "Buying", 
+  "target_name": "\u0623\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.146393", 
+  "name": "76a7bc1485", 
+  "source_name": "Chargeable", 
+  "target_name": "\u062e\u0635\u0648\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.149109", 
+  "name": "41f7f140f6", 
+  "source_name": "Contact", 
+  "target_name": "\u0627\u0644\u0623\u0633\u0645\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.151740", 
+  "name": "6ba48828e9", 
+  "source_name": "Cr", 
+  "target_name": "\u062f\u0627\u0626\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.154587", 
+  "name": "2ee7d3612b", 
+  "source_name": "Credit", 
+  "target_name": "\u062f\u0627\u0626\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.157339", 
+  "name": "9f4ed76001", 
+  "source_name": "Credit Note Issued", 
+  "target_name": "\u062a\u0633\u0648\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.159978", 
+  "name": "3d608c01e4", 
+  "source_name": "Ctrl+enter to save", 
+  "target_name": "Ctrl+enter \u0644\u0644\u062d\u0641\u0638"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.162571", 
+  "name": "7939ad25f1", 
+  "source_name": "Customer Acquisition and Loyalty", 
+  "target_name": "\u0648\u0644\u0627\u0621 \u0648\u0627\u0643\u062a\u0633\u0627\u0628 \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.165134", 
+  "name": "931e87c032", 
+  "source_name": "Customer Credit Balance", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u062d\u062f \u0627\u0644\u0627\u0626\u062a\u0645\u0627\u0646\u064a \u0648\u0627\u0631\u0635\u062f\u0629 \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.168518", 
+  "name": "9b5f234f7a", 
+  "source_name": "Customer Name", 
+  "target_name": "\u0627\u0644\u0639\u0645\u064a\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.171182", 
+  "name": "ead5fbd706", 
+  "source_name": "Debit To", 
+  "target_name": "\u0645\u062f\u064a\u0646 \u0627\u0644\u064a :"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.174113", 
+  "name": "86bc76aeb4", 
+  "source_name": "Delivered Items To Be Billed", 
+  "target_name": "\u0633\u0646\u062f\u0627\u062a \u0627\u0644\u062a\u0633\u0644\u064a\u0645 \u0627\u0644\u063a\u064a\u0631 \u0645\u0641\u0648\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.177486", 
+  "name": "e3716018ba", 
+  "source_name": "Depreciation", 
+  "target_name": "\u0627\u0647\u0644\u0627\u0643"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.180086", 
+  "name": "58533ad5df", 
+  "source_name": "Depreciation Entry", 
+  "target_name": "\u0642\u064a\u062f \u0627\u0647\u0644\u0627\u0643"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.184278", 
+  "name": "28ee36a890", 
+  "source_name": "Designation", 
+  "target_name": "\u0627\u0644\u0645\u0633\u0645\u064a \u0627\u0644\u0648\u0638\u064a\u0641\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.186982", 
+  "name": "a7f2ddab95", 
+  "source_name": "DOCTYPE", 
+  "target_name": "\u0646\u0648\u0639 \u0627\u0644\u0648\u062b\u064a\u0642\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.189558", 
+  "name": "b32d567081", 
+  "source_name": "Dr", 
+  "target_name": "\u0645\u062f\u064a\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.192121", 
+  "name": "6a72170011", 
+  "source_name": "DUE AMOUNT", 
+  "target_name": "\u0645\u0628\u0644\u063a \u0645\u0633\u062a\u062d\u0642"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.194746", 
+  "name": "c591bda333", 
+  "source_name": "Employee Loan", 
+  "target_name": "\u0633\u0644\u0641\u0629 \u0645\u0648\u0638\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.197253", 
+  "name": "6ac7c592d4", 
+  "source_name": "Employee Loan Application", 
+  "target_name": "\u0637\u0644\u0628 \u0633\u0644\u0641\u0629 \u0645\u0648\u0638\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.200019", 
+  "name": "b1e933e3fa", 
+  "source_name": "Employee Loan Management", 
+  "target_name": "\u0627\u062f\u0627\u0631\u0629 \u0633\u0644\u0641 \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.202593", 
+  "name": "9642a835c4", 
+  "source_name": "Employment Type", 
+  "target_name": "\u0646\u0648\u0639 \u0627\u0644\u062a\u0648\u0638\u064a\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.205265", 
+  "name": "defd86cf82", 
+  "source_name": "Entry Type", 
+  "target_name": "\u0646\u0648\u0639 \u0627\u0644\u0642\u064a\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.207980", 
+  "name": "270e98ca9e", 
+  "source_name": "Equity", 
+  "target_name": "\u062d\u0642\u0648\u0642 \u0645\u0644\u0643\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.210523", 
+  "name": "9baf17cdd6", 
+  "source_name": "Excise Entry", 
+  "target_name": "\u0642\u064a\u062f \u0636\u0631\u064a\u0628\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.213098", 
+  "name": "dafd6f6c7c", 
+  "source_name": "Exit", 
+  "target_name": "\u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u0644\u0627\u0633\u062a\u0642\u0627\u0644\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.215943", 
+  "name": "6d64209ec2", 
+  "source_name": "Expense", 
+  "target_name": "\u0645\u0635\u0631\u0648\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.218749", 
+  "name": "e459ba7761", 
+  "source_name": "Expense Claim", 
+  "target_name": "\u0645\u0637\u0627\u0644\u0628\u0629 \u0645\u0635\u0631\u0648\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.221454", 
+  "name": "c986658986", 
+  "source_name": "Expense Claim Type", 
+  "target_name": "\u0646\u0648\u0639 \u0645\u0637\u0627\u0644\u0628\u0629 \u0627\u0644\u0645\u0635\u0631\u0648\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.224183", 
+  "name": "6610d54c91", 
+  "source_name": "Expense Claims", 
+  "target_name": "\u0645\u0637\u0627\u0644\u0628\u0629 \u0627\u0644\u0645\u0635\u0631\u0648\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.226944", 
+  "name": "934494c0b3", 
+  "source_name": "Feedback", 
+  "target_name": "\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u062e\u0631\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.229850", 
+  "name": "7f7a83ec40", 
+  "source_name": "Fleet Management", 
+  "target_name": "\u0627\u062f\u0627\u0631\u0629 \u0627\u0644\u0627\u0633\u0637\u0648\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.232536", 
+  "name": "bd9cb6bf96", 
+  "source_name": "Flex Soft", 
+  "target_name": "\u0624\u0633\u0633\u0629 \u0627\u0644\u0646\u0638\u0645 \u0627\u0644\u0645\u0631\u0646\u0629 \u0644\u062a\u0642\u0646\u064a\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.235184", 
+  "name": "33e4942502", 
+  "source_name": "flexone", 
+  "target_name": "\u0641\u0644\u0643\u0633 1"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.238014", 
+  "name": "7c34369724", 
+  "source_name": "Fuel UOM", 
+  "target_name": "\u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633 \u0627\u0644\u0648\u0642\u0648\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.240829", 
+  "name": "fca91fb304", 
+  "source_name": "Held On", 
+  "target_name": "\u062a\u0627\u0631\u064a\u062e \u0642\u0628\u0648\u0644 \u0627\u0644\u0627\u0633\u062a\u0642\u0627\u0644\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.243484", 
+  "name": "0e42a531aa", 
+  "source_name": "Human Resources", 
+  "target_name": "\u0623\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0628\u0634\u0631\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.246249", 
+  "name": "281346fc7d", 
+  "source_name": "Income", 
+  "target_name": "\u0627\u0644\u0625\u064a\u0631\u0627\u062f\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.248852", 
+  "name": "d64bcedb8c", 
+  "source_name": "Income Account", 
+  "target_name": "\u062d\u0633\u0627\u0628 \u0627\u0644\u062f\u062e\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.251452", 
+  "name": "05143eab5d", 
+  "source_name": "Insert Above", 
+  "target_name": "\u0627\u062f\u0631\u0627\u062c \u0628\u0627\u0644\u0623\u0639\u0644\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.254104", 
+  "name": "815b4e5d0a", 
+  "source_name": "Is Advance", 
+  "target_name": "\u0647\u0644 \u0647\u0648 \u062f\u0641\u0639\u0629 \u0645\u0642\u062f\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.256804", 
+  "name": "9e377f9ada", 
+  "source_name": "Is Group", 
+  "target_name": "\u0647\u0644 \u0647\u0648 \u062d\u0633\u0627\u0628 \u0631\u0626\u064a\u0633\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.259514", 
+  "name": "9b99a0a1ce", 
+  "source_name": "Is Opening", 
+  "target_name": "\u0647\u0644 \u0647\u0648 \u0627\u0641\u062a\u062a\u0627\u062d\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.262121", 
+  "name": "a5e90d2897", 
+  "source_name": "Is Opening Entry", 
+  "target_name": "\u0647\u0644 \u0647\u0648  \u0642\u064a\u062f \u0627\u0641\u062a\u062a\u0627\u062d\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.264739", 
+  "name": "c26a0c8e25", 
+  "source_name": "Issued Items Against Production Order", 
+  "target_name": "\u0627\u0644\u0627\u0635\u0646\u0627\u0641 \u0627\u0644\u0635\u0627\u062f\u0631\u0629 \u0645\u0642\u0627\u0628\u0644 \u0627\u0645\u0631 \u0627\u0646\u062a\u0627\u062c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.267376", 
+  "name": "8fa3a16714", 
+  "source_name": "Item Attribute", 
+  "target_name": "\u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0635\u0646\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.270005", 
+  "name": "f50614fc82", 
+  "source_name": "Item-wise Purchase Register", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a \u0639\u0644\u064a \u0645\u0633\u062a\u0648\u064a \u0627\u0644\u0635\u0646\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.272552", 
+  "name": "2b25e4c506", 
+  "source_name": "Itemwise Recommended Reorder Level", 
+  "target_name": "\u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0637\u0644\u0628 \u0639\u0644\u064a \u0645\u0633\u062a\u064a \u0627\u0644\u0635\u0646\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.275199", 
+  "name": "d3b62ff09c", 
+  "source_name": "Job Applicant", 
+  "target_name": "\u0637\u0644\u0628 \u0648\u0638\u064a\u0641\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.277907", 
+  "name": "2191254f06", 
+  "source_name": "Landed Cost Voucher", 
+  "target_name": "\u0645\u0639\u0627\u0644\u062c \u0627\u0644\u062a\u0643\u0644\u0641\u0629 \u0627\u0644\u0646\u0647\u0627\u0626\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.280513", 
+  "name": "b603c0b416", 
+  "source_name": "Last Purchase Rate", 
+  "target_name": "\u0627\u062e\u0631 \u0633\u0639\u0631 \u0634\u0631\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.283461", 
+  "name": "90e3ca525a", 
+  "source_name": "Letter Head", 
+  "target_name": "\u0631\u0623\u0633 \u0627\u0644\u0631\u0633\u0627\u0644\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.286522", 
+  "name": "f7f6138a5b", 
+  "source_name": "Loan Type", 
+  "target_name": "\u0646\u0648\u0639 \u0627\u0644\u0633\u0644\u0641\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.289251", 
+  "name": "776bb109f9", 
+  "source_name": "Make", 
+  "target_name": "\u0625\u062c\u0631\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.291964", 
+  "name": "93abfaf547", 
+  "source_name": "Manufacturing", 
+  "target_name": "\u0623\u062f\u0627\u0631\u0629 \u0627\u0644\u062a\u0635\u0646\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.294746", 
+  "name": "40fcc89ac4", 
+  "source_name": "Match Payments with Invoices", 
+  "target_name": "\u062a\u0633\u0648\u064a\u0629 \u062f\u0641\u0639\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0645\u0639 \u0627\u0644\u0641\u0648\u0627\u062a\u064a\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.297597", 
+  "name": "e688cd2581", 
+  "source_name": "Materials Required (Exploded)", 
+  "target_name": "\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.300248", 
+  "name": "da605d8985", 
+  "source_name": "More", 
+  "target_name": "\u0627\u0644\u0645\u0632\u064a\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.302956", 
+  "name": "7971c0d1c9", 
+  "source_name": "Net Profit/Loss", 
+  "target_name": "\u0646\u0647\u0627\u0626\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.305714", 
+  "name": "dd73dca9a8", 
+  "source_name": "New Account Name", 
+  "target_name": "\u0627\u0633\u0645 \u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u062c\u062f\u064a\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.308419", 
+  "name": "db62e73ae8", 
+  "source_name": "New Company", 
+  "target_name": "\u0634\u0631\u0643\u0629 \u062c\u062f\u064a\u062f\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.311204", 
+  "name": "df53c772c5", 
+  "source_name": "No Tags", 
+  "target_name": "\u0644\u0627\u062a\u0648\u062c\u062f \u0648\u0633\u0648\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.313950", 
+  "name": "539e169390", 
+  "source_name": "Offer Letter", 
+  "target_name": "\u0639\u0631\u0636 \u0648\u0638\u064a\u0641\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.316649", 
+  "name": "81c76aa01c", 
+  "source_name": "Open", 
+  "target_name": "\u0645\u0641\u062a\u0648\u062d"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.319411", 
+  "name": "363776fb28", 
+  "source_name": "Opening Entry", 
+  "target_name": "\u0642\u064a\u062f \u0627\u0641\u062a\u062a\u0627\u062d\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.322098", 
+  "name": "397a8c4976", 
+  "source_name": "Operation", 
+  "target_name": "\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0627\u0646\u062a\u0627\u062c\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.324883", 
+  "name": "ba0464d565", 
+  "source_name": "Ordered Items To Be Billed", 
+  "target_name": "\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0628\u064a\u0639 \u0627\u0644\u063a\u064a\u0631 \u0645\u0641\u0648\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.327655", 
+  "name": "8e8cf548b4", 
+  "source_name": "Ordered Items To Be Delivered", 
+  "target_name": "\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0628\u064a\u0639 \u0627\u0644\u063a\u064a\u0631 \u0645\u0633\u0644\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.331144", 
+  "name": "bf7dec8a38", 
+  "source_name": "Outstanding Amount", 
+  "target_name": "\u0627\u0644\u0645\u0628\u0644\u063a \u0627\u0644\u0645\u0639\u0644\u0642"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.333906", 
+  "name": "545aab40af", 
+  "source_name": "Packing Slip", 
+  "target_name": "\u0642\u0633\u064a\u0645\u0629 \u0627\u0644\u062a\u0639\u0628\u0626\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.336666", 
+  "name": "015e8aed3d", 
+  "source_name": "Party Type", 
+  "target_name": "\u0646\u0648\u0639 \u0627\u0644\u062d\u0633\u0627\u0628"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.339464", 
+  "name": "ff9bb4df63", 
+  "source_name": "Pay To / Recd From", 
+  "target_name": "\u062f\u0641\u0639 \u0627\u0644\u064a / \u0627\u0633\u062a\u0644\u0627\u0645 \u0645\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.342373", 
+  "name": "468c8543b8", 
+  "source_name": "Payment Gateway Account", 
+  "target_name": "\u062d\u0633\u0627\u0628 \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062f\u0641\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.345410", 
+  "name": "02b1eecc21", 
+  "source_name": "Pending", 
+  "target_name": "\u0645\u0639\u0644\u0642\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.348310", 
+  "name": "5b09dbfd02", 
+  "source_name": "Pending SO Items For Purchase Request", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u062a\u0641\u0635\u064a\u0644\u064a \u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.351436", 
+  "name": "86c159b25b", 
+  "source_name": "Period Closing Voucher", 
+  "target_name": "\u0642\u064a\u062f \u0627\u063a\u0644\u0627\u0642 \u0627\u0644\u0641\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.355859", 
+  "name": "d72b72e3e8", 
+  "source_name": "POS", 
+  "target_name": "\u0646\u0642\u0627\u0637 \u0627\u0644\u0628\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.359022", 
+  "name": "2b14ed4d8f", 
+  "source_name": "Posting Date", 
+  "target_name": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0627\u062f\u062e\u0627\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.361727", 
+  "name": "6ce7a6549a", 
+  "source_name": "Price List", 
+  "target_name": "\u0633\u0639\u0631 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0634\u0631\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.364440", 
+  "name": "383d29db21", 
+  "source_name": "Price List Rate", 
+  "target_name": "\u0633\u0639\u0631 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0623\u0633\u0639\u0627\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.367171", 
+  "name": "8f10805c92", 
+  "source_name": "Print Heading", 
+  "target_name": "\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0637\u0628\u0627\u0639\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.370168", 
+  "name": "5da5e82847", 
+  "source_name": "Process Payroll", 
+  "target_name": "\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0631\u0648\u0627\u062a\u0628"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.372977", 
+  "name": "0c422a88cc", 
+  "source_name": "Production Order", 
+  "target_name": "\u0623\u0645\u0631 \u0627\u0646\u062a\u0627\u062c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.375700", 
+  "name": "e907012e6c", 
+  "source_name": "Production Orders in Progress", 
+  "target_name": "\u0627\u0648\u0627\u0645\u0631 \u0627\u0644\u0627\u0646\u062a\u0627\u062c \u0642\u064a\u062f \u0627\u0644\u0639\u0645\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.378646", 
+  "name": "32a66d41f2", 
+  "source_name": "Production Planning Tool", 
+  "target_name": "\u0623\u062f\u0627\u0629 \u062a\u062e\u0637\u064a\u0637 \u0627\u0644\u0627\u0646\u062a\u0627\u062c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.381674", 
+  "name": "fc72f9dd8e", 
+  "source_name": "Project wise Stock Tracking", 
+  "target_name": "\u062a\u062a\u0628\u0639 \u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639 \u0639\u0644\u064a \u0645\u0633\u062a\u0648\u064a \u0627\u0644\u0645\u062e\u0632\u0648\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.384459", 
+  "name": "a49d98bf29", 
+  "source_name": "Projects", 
+  "target_name": "\u0623\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.387556", 
+  "name": "a83c83df06", 
+  "source_name": "Purchase Order Items To Be Billed", 
+  "target_name": "\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u063a\u064a\u0631 \u0645\u0641\u0648\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.391095", 
+  "name": "b1fe937d77", 
+  "source_name": "Purchase Order Items To Be Received", 
+  "target_name": "\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0621 \u0627\u0644\u063a\u064a\u0631 \u0645\u0633\u062a\u0644\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.394541", 
+  "name": "766cc50632", 
+  "source_name": "Purchase Taxes and Charges Template", 
+  "target_name": "\u0642\u0627\u0644\u0628 \u0627\u0644\u0636\u0631\u0627\u0626\u0628 \u0639\u0644\u064a \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.397607", 
+  "name": "19c8f5e1fb", 
+  "source_name": "Qty as per Stock UOM", 
+  "target_name": "\u0627\u0644\u0643\u0645\u064a\u0629 \u0628\u0646\u0627\u0621 \u0639\u0644\u064a \u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633 \u0627\u0644\u0645\u0646\u062a\u062c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.400638", 
+  "name": "fdeabb844e", 
+  "source_name": "Rate", 
+  "target_name": "\u0627\u0644\u0633\u0639\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.403577", 
+  "name": "e75efed4bf", 
+  "source_name": "Receive", 
+  "target_name": "\u0627\u0633\u062a\u0644\u0627\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.406672", 
+  "name": "348333acca", 
+  "source_name": "Received Items To Be Billed", 
+  "target_name": "\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0645\u0633\u062a\u0644\u0645\u0629 \u0627\u0644\u063a\u064a\u0631 \u0645\u0641\u0648\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.409635", 
+  "name": "c9da7e52ed", 
+  "source_name": "Recruitment", 
+  "target_name": "\u0627\u0644\u062a\u0648\u0638\u064a\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.412383", 
+  "name": "c1525cfe29", 
+  "source_name": "Reference Date", 
+  "target_name": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0645\u0631\u062c\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.415068", 
+  "name": "8e9d325e42", 
+  "source_name": "Reference Type", 
+  "target_name": "\u0646\u0648\u0639 \u0627\u0644\u0645\u0631\u062c\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.417863", 
+  "name": "34cdec98ab", 
+  "source_name": "Remarks", 
+  "target_name": "\u0627\u0644\u062a\u0639\u0644\u064a\u0642\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.421279", 
+  "name": "d2de44bede", 
+  "source_name": "Reports", 
+  "target_name": "\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.424070", 
+  "name": "1f2f2a3848", 
+  "source_name": "Request for Quotation", 
+  "target_name": "\u0637\u0644\u0628 \u0639\u0631\u0636 \u0633\u0639\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.426740", 
+  "name": "f567e9185c", 
+  "source_name": "Requested Items To Be Ordered", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0645\u062a\u0627\u0628\u0639\u0629 \u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0645\u0648\u0627\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.429509", 
+  "name": "54ad0ce1a9", 
+  "source_name": "Requested Items To Be Transferred", 
+  "target_name": "\u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629 \u0644\u0644\u062a\u062d\u0648\u064a\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.432274", 
+  "name": "265c87e0b8", 
+  "source_name": "Return", 
+  "target_name": "\u0645\u0631\u062a\u062c\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.435069", 
+  "name": "98b10b8d56", 
+  "source_name": "Round Off", 
+  "target_name": "\u062e\u0635\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.437941", 
+  "name": "e8bf51fe65", 
+  "source_name": "Rounded Total", 
+  "target_name": "\u0627\u0644\u0627\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0642\u0631\u0628"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.440776", 
+  "name": "2f50880894", 
+  "source_name": "Salary Register", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u0631\u0648\u0627\u062a\u0628 \u0627\u0644\u0634\u0647\u0631\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.443490", 
+  "name": "c18604cefd", 
+  "source_name": "Sales Funnel", 
+  "target_name": "\u062f\u0648\u0631\u0629 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.446136", 
+  "name": "096a23a59e", 
+  "source_name": "Sales Order", 
+  "target_name": "\u0627\u0645\u0631 \u0628\u064a\u0639"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.448909", 
+  "name": "517b1f235f", 
+  "source_name": "Sales Partner", 
+  "target_name": "\u0645\u0646\u062f\u0648\u0628 \u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.451750", 
+  "name": "ec6e8c01b3", 
+  "source_name": "Sales Person-wise Transaction Summary", 
+  "target_name": "\u0645\u0644\u062e\u0635 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0639\u0644\u064a \u0645\u0633\u062a\u0648\u064a \u0645\u0646\u062f\u0648\u0628 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.455187", 
+  "name": "c1a2103b64", 
+  "source_name": "Sales Taxes and Charges Template", 
+  "target_name": "\u0642\u0627\u0644\u0628 \u0627\u0644\u0636\u0631\u0627\u0626\u0628 \u0639\u0644\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.457910", 
+  "name": "61d8be35e6", 
+  "source_name": "Salutation", 
+  "target_name": "\u0627\u0644\u0628\u0627\u062f\u0626\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.460639", 
+  "name": "692e562f57", 
+  "source_name": "School/University", 
+  "target_name": "\u0627\u0644\u0645\u062f\u0631\u0633\u0629 / \u0627\u0644\u062c\u0627\u0645\u0639\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.463473", 
+  "name": "d21e17bc62", 
+  "source_name": "Selling", 
+  "target_name": "\u0623\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.466267", 
+  "name": "2ed6a0e25e", 
+  "source_name": "Serial No", 
+  "target_name": "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0645\u062a\u0633\u0644\u0633\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.469069", 
+  "name": "8a61b7de63", 
+  "source_name": "Serial No Service Contract Expiry", 
+  "target_name": "\u062a\u0627\u0631\u064a\u062e \u0646\u0647\u0627\u064a\u0629 \u0639\u0642\u062f \u0627\u0644\u0635\u064a\u0627\u0646\u0629 \u0628\u0646\u0627\u0621 \u0639\u0644\u064a \u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0645\u062a\u0633\u0644\u0633\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.473068", 
+  "name": "453a46e0fb", 
+  "source_name": "Serial No Status", 
+  "target_name": "\u062d\u0627\u0644\u0629 \u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0645\u062a\u0633\u0644\u0633\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.475881", 
+  "name": "7ada359c2e", 
+  "source_name": "Serial No Warranty Expiry", 
+  "target_name": "\u0646\u0647\u0627\u064a\u0629 \u0636\u0645\u0627\u0646 \u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0645\u062a\u0633\u0644\u0633\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.478679", 
+  "name": "94fdb2e910", 
+  "source_name": "Show tags", 
+  "target_name": "\u0625\u0638\u0647\u0627\u0631 \u0627\u0644\u0648\u0633\u0648\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.481740", 
+  "name": "50be41ace1", 
+  "source_name": "Stock", 
+  "target_name": "\u0623\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0633\u062a\u0648\u062f\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.484603", 
+  "name": "05b8f0adc0", 
+  "source_name": "Stock Ageing", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0639\u0645\u0631 \u0627\u0644\u0645\u062e\u0632\u0648\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.487499", 
+  "name": "d393dbc38f", 
+  "source_name": "Stock Qty", 
+  "target_name": "\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u062e\u0632\u0648\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.490218", 
+  "name": "a392657e60", 
+  "source_name": "Stock Received But Not Billed", 
+  "target_name": "\u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0645\u0633\u062a\u0644\u0645 \u0627\u0644\u063a\u064a\u0631 \u0645\u0641\u0648\u062a\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.492994", 
+  "name": "90c8c0b432", 
+  "source_name": "Stock Summary", 
+  "target_name": "\u0645\u0644\u062e\u0635 \u0627\u0644\u0645\u062e\u0632\u0648\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.495813", 
+  "name": "5e47faf2f9", 
+  "source_name": "Stock UOM", 
+  "target_name": "\u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633 \u0627\u0644\u0645\u0646\u062a\u062c"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.498531", 
+  "name": "b904ce34fe", 
+  "source_name": "Submitted", 
+  "target_name": "\u0645\u0639\u062a\u0645\u062f\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.501241", 
+  "name": "f6323917f7", 
+  "source_name": "Supplier Quotation", 
+  "target_name": "\u0639\u0631\u0636 \u0633\u0639\u0631 \u0645\u0648\u0631\u062f"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.504165", 
+  "name": "5083ca2298", 
+  "source_name": "Tags", 
+  "target_name": "\u0627\u0644\u0648\u0633\u0648\u0645"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.506900", 
+  "name": "13800060a8", 
+  "source_name": "Tax ID No", 
+  "target_name": "\u0627\u0644\u0631\u0642\u0645 \u0627\u0644\u0636\u0631\u064a\u0628\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.509716", 
+  "name": "6e7499dc6f", 
+  "source_name": "The first Leave Approver in the list will be set as the default Leave Approver", 
+  "target_name": "\u0627\u0648\u0644 \u0634\u062e\u0635 \u0641\u064a \u0627\u0644\u0642\u0627\u0626\u0645\u0629 \u0633\u064a\u0643\u0648\u0646 \u0647\u0648 \u0627\u0644\u0645\u0648\u0627\u0641\u0642 \u0639\u0644\u064a \u0627\u0644\u0627\u062c\u0627\u0632\u0629 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.512387", 
+  "name": "3adfb62809", 
+  "source_name": "To Bill", 
+  "target_name": "\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0644\u0644\u0641\u0648\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.515451", 
+  "name": "9c50310c93", 
+  "source_name": "To Deliver and Bill", 
+  "target_name": "\u0644\u0644\u062a\u0633\u0644\u064a\u0645 \u0648\u0627\u0644\u0641\u0648\u062a\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.518190", 
+  "name": "092291e95e", 
+  "source_name": "To Receive", 
+  "target_name": "\u063a\u064a\u0631 \u0645\u0633\u062a\u0644\u0645\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.521271", 
+  "name": "214bfd3d7c", 
+  "source_name": "Tools", 
+  "target_name": "\u0623\u0644\u0627\u062f\u0648\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.524548", 
+  "name": "a3a7b288f7", 
+  "source_name": "Top 5 Items", 
+  "target_name": "\u0627\u0643\u062b\u0631 \u0627\u0644\u0627\u0635\u0646\u0627\u0641 \u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.527606", 
+  "name": "75ad83e844", 
+  "source_name": "Top 5 Outstanding Customer", 
+  "target_name": "\u0627\u0639\u0644\u064a \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0645\u062f\u064a\u0648\u0646\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.530964", 
+  "name": "4ef8606003", 
+  "source_name": "TOTAL SALES", 
+  "target_name": "\u0625\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.533652", 
+  "name": "642cf9405f", 
+  "source_name": "Total Sales Amount", 
+  "target_name": "\u0625\u062c\u0645\u0627\u0644\u064a \u062d\u062c\u0645 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.536349", 
+  "name": "1462731d00", 
+  "source_name": "Trial Balance for Party", 
+  "target_name": "\u0645\u064a\u0632\u0627\u0646 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629 \u0644\u0644\u0639\u0645\u0644\u0627\u0621 \u0648\u0627\u0644\u0645\u0648\u0631\u062f\u064a\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.539006", 
+  "name": "ea903b9e3b", 
+  "source_name": "Unit of Measure (UOM)", 
+  "target_name": "\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0642\u064a\u0627\u0633"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.541687", 
+  "name": "034dd77e20", 
+  "source_name": "UOM Conversion Factor", 
+  "target_name": "\u0648\u062d\u062f\u0629 \u0642\u064a\u0627\u0633 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u062a\u062d\u0648\u064a\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.545156", 
+  "name": "8d47d93ca6", 
+  "source_name": "Update Bank Transaction Dates", 
+  "target_name": "\u062a\u062d\u062f\u064a\u062b \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0628\u0646\u0643\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.548083", 
+  "name": "b55682ade9", 
+  "source_name": "User Remark", 
+  "target_name": "\u0627\u0644\u062a\u0639\u0644\u064a\u0642\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.550743", 
+  "name": "480494634b", 
+  "source_name": "Valuation Rate", 
+  "target_name": "\u0633\u0639\u0631 \u0627\u0644\u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.553398", 
+  "name": "efd203b5c4", 
+  "source_name": "Vehicle Log", 
+  "target_name": "\u0633\u062c\u0644 \u0627\u0644\u0633\u064a\u0627\u0631\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.556137", 
+  "name": "432a4c7317", 
+  "source_name": "WRITE OFF", 
+  "target_name": "\u062e\u0635\u0645 \u0627\u0644\u0643\u0633\u0648\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.558875", 
+  "name": "fac030f1c0", 
+  "source_name": "Write Off Entry", 
+  "target_name": "\u0642\u064a\u062f \u0627\u0637\u0641\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "en", 
+  "modified": "2019-01-14 17:45:11.561571", 
+  "name": "de92281129", 
+  "source_name": "Payment Entry", 
+  "target_name": "Payment Voucher"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.564604", 
+  "name": "8bb5825223", 
+  "source_name": "Item", 
+  "target_name": "\u0635\u0646\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.567282", 
+  "name": "e55dbbd3a0", 
+  "source_name": "Batch", 
+  "target_name": "\u062f\u0641\u0639\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.570131", 
+  "name": "efffa53738", 
+  "source_name": "Accounts Payable", 
+  "target_name": "\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u0648\u0631\u062f\u064a\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.572915", 
+  "name": "1c853932b7", 
+  "source_name": "Sales Register", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.575691", 
+  "name": "7b0ca2e8ea", 
+  "source_name": "Purchase Register", 
+  "target_name": "\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.578374", 
+  "name": "0f54c0a8bd", 
+  "source_name": "Customer Group", 
+  "target_name": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0627\u0644\u0639\u0645\u064a\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.581060", 
+  "name": "a79f9f9010", 
+  "source_name": "TOTAL COLLECTION", 
+  "target_name": "\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u062a\u062d\u0635\u064a\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:45:11.583813", 
+  "name": "e7fb143e8c", 
+  "source_name": "Sales Person", 
+  "target_name": "\u0634\u0631\u064a\u0643 \u0645\u0628\u064a\u0639\u0627\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 17:46:27.680829", 
+  "name": "345bbd3591", 
+  "source_name": "Customer", 
+  "target_name": "\u0639\u0645\u064a\u0644"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 18:04:59.595349", 
+  "name": "f8aabaa26e", 
+  "source_name": "Client Treatment", 
+  "target_name": "\u062c\u0644\u0633\u0627\u062a \u0639\u0644\u0627\u062c\u064a\u0629"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 18:07:36.729297", 
+  "name": "884d6025b9", 
+  "source_name": "Client Appointment", 
+  "target_name": "\u0645\u0648\u0627\u0639\u064a\u062f \u0627\u0644\u0639\u0645\u0644\u0627\u0621"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 18:09:06.382980", 
+  "name": "327ea606dd", 
+  "source_name": "Patient Appointment", 
+  "target_name": null
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "modified": "2019-01-14 18:24:09.508047", 
+  "name": "81b0b31bdb", 
+  "source_name": "Billed", 
+  "target_name": "\u062a\u0645\u062a \u0627\u0644\u0641\u0648\u062a\u0631\u0629"
+ }
+]

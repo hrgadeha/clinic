@@ -7,5 +7,23 @@
   "name": "Customer-Client", 
   "script": "frappe.ui.form.on(\"Customer\", {\nrefresh: function(frm) {\nfrm.toggle_display(['contact_html','primary_contact_detail']);\nfrm.toggle_display(['address_html'], !frm.doc.__islocal);\n\n\n}\n\n})", 
   "script_type": "Client"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Consultation", 
+  "modified": "2018-12-20 11:26:11.892637", 
+  "name": "Consultation-Client", 
+  "script": "frappe.ui.form.on('Consultation', {\n\tonload: function(frm) {\n\t\tvar df = frappe.meta.get_docfield(\"Consultation Treatment\", \"assigned_to\", frm.doc.name);\n\t\t\n\t\tdf.formatter = function(value, df, options, doc) {\n\t\treturn value? value + ': ' + doc.doctor_name: doc.doctor_name;\n\t\n\t\t}\t\t\t\n\t}\n})", 
+  "script_type": "Client"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Client Treatment", 
+  "modified": "2018-12-20 11:27:00.640560", 
+  "name": "Client Treatment-Client", 
+  "script": "frappe.ui.form.on(\"Client Treatment\", \"on_submit\", function(frm,cdt,cdn) {\n\tvar treatment=locals[cdt][cdn];\n\tif(treatment.status=\"Completed\"){\n\tconsole.log(\"Change\");\n\tfrm.refresh_field('status');\n\tsetTimeout(function(){\n\tcur_frm.reload_doc();\n\n\t},2000)\n\t}\n\n})\n", 
+  "script_type": "Client"
  }
 ]
