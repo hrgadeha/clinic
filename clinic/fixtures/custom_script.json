@@ -25,5 +25,14 @@
   "name": "Client Treatment-Client", 
   "script": "frappe.ui.form.on(\"Client Treatment\", \"on_submit\", function(frm,cdt,cdn) {\n\tvar treatment=locals[cdt][cdn];\n\tif(treatment.status=\"Completed\"){\n\tconsole.log(\"Change\");\n\tfrm.refresh_field('status');\n\tsetTimeout(function(){\n\tcur_frm.reload_doc();\n\n\t},2000)\n\t}\n\n})\n", 
   "script_type": "Client"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Patient Appointment", 
+  "modified": "2019-01-21 11:25:04.007393", 
+  "name": "Patient Appointment-Client", 
+  "script": "cur_frm.add_fetch(\"physician\", \"department\", \"clinic\")\nfrappe.ui.form.on(\"Patient Appointment\", \"refresh\", function(frm) {\ncur_frm.set_df_property(\"clinic\", \"read_only\",1);\n\n\n\n})", 
+  "script_type": "Client"
  }
 ]
